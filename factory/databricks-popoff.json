@@ -1,0 +1,9 @@
+{
+	"name": "databricks-popoff",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c01d050e-4fd2-4ebe-9b21-505018e26db3",
+		"tenantId": "d610bb23-7816-4eb7-939c-df20e3792b70"
+	}
+}
