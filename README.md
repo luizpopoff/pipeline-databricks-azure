@@ -1,7 +1,7 @@
 # Projeto: Pipeline de Engenharia de Dados na Azure
 
 ## Descrição do Projeto
-Desenvolvemos um pipeline completo de engenharia de dados para uma empresa imobiliária utilizando a plataforma Azure. O objetivo foi criar um Data Lake para ingestão e transformação de dados sobre preços de imóveis na cidade do Rio de Janeiro. As etapas do pipeline incluem:
+Desenvolvi um pipeline completo de engenharia de dados para uma empresa imobiliária utilizando a plataforma Azure. O objetivo foi criar um Data Lake para ingestão e transformação de dados sobre preços de imóveis na cidade do Rio de Janeiro. As etapas do pipeline incluem:
 
 - **Camada Inbound**: Ingestão dos dados brutos.
 - **Camada Bronze**: Transformações iniciais e armazenamento em formato Delta.
